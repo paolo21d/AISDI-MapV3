@@ -1,0 +1,22 @@
+Start testing: Dec 30 14:47 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/paul/Pulpit/AISDI-lab/DO_mapy/AISDI-MapV3/Release/tests/aisdiMapsTests"
+Directory: /home/paul/Pulpit/AISDI-lab/DO_mapy/AISDI-MapV3/Release/tests
+"boostUnitTestsRun" start time: Dec 30 14:47 CET
+Output:
+----------------------------------------------------------
+Running 294 test cases...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   4.62 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Dec 30 14:47 CET
+"boostUnitTestsRun" time elapsed: 00:00:04
+----------------------------------------------------------
+
+End testing: Dec 30 14:47 CET
