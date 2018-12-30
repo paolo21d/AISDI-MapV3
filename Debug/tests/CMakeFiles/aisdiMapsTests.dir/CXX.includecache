@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/HashMap.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+utility
+-
+vector
+-
+stack
+-
+
+/home/paul/Pulpit/AISDI-lab/DO_mapy/AISDI-MapV3/tests/HashMapTests.cpp
+HashMap.h
+-
+cstdint
+-
+string
+-
+map
+-
+boost/test/unit_test.hpp
+-
+boost/mpl/list.hpp
+-
+
